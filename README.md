@@ -1,4 +1,4 @@
-# DeepLearning Exercises
+# Deep Learning Exercises
 ## Basic Exercises
 1. **Exercise_Basic_0_HelloWorld**: Check the installation of Tensorflow is successful.<br>
 2. **Exercise_Basic_1_ImagePreprocessing**: A simple instruction of the ImageDataGenerator for image preprocessing.<br>
