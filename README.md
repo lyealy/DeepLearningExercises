@@ -12,3 +12,4 @@
 ## Advanced Exercises
 1. **FaceDetection(MTCNN)_pretrained**: Apply the pretrained MTCNN to detect the Face in an image.
 2. **Yolo2(build)**: Coursera project. Apply Yolo2 algorithm for object detection.
+3. **Facenet_FaceRecognition**: Coursera project. Apply Facenet for face identification and recognition.
