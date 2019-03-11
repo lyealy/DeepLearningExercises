@@ -7,8 +7,8 @@
 5. **Exercise_Basic_4_VGG16_fine_turning**: Fine-tuning the top layers and the last 4 convolution layers. Sometimes, the Keras and tf.keras API are not compatible.<br>
 6. **Exercise_Basic_5_ResNet50(build1)**: One way to build the ResNet50 from script.<br>
 7. **Exercise_Basic_6_ResNet50(build2)_SIGNS_DATASET**: Another way to build the ResNet50 from script. Apply the network for a multiclass classification problem.<br>
-8. **Exercise_Autoencoder_ImageDenoising**: An example of applying the autoencoder to do image denoising. 
-9. **Exercise_DCGAN_FashionMNIST**: Build a DCGAN to generate the fake (Fashion MNIST) data.
+8. **Exercise_Basic_7_Autoencoder_ImageDenoising**: An example of applying the autoencoder to do image denoising. 
+9. **Exercise_DCGAN_8_FashionMNIST**: Build a DCGAN to generate the fake (Fashion MNIST) data.
 
 ## Advanced Exercises
 1. **FaceDetection(MTCNN)_pretrained**: Apply the pretrained MTCNN to detect the Face in an image.
